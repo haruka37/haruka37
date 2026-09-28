@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm haruka37
 
-<!--
-**haruka37/haruka37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 这是我的 GitHub 个人主页，欢迎来访。
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 我正在学习：python
+- 感兴趣的方向：AI
+- 当前在做：anything来构建
+
+## 技术栈
+
+- 语言：Pythhon
+- 工具：vs code,WorkBuddy
+
+## 联系方式
+
+- GitHub：
+- Email：
+
+## 小项目
+
+
+
+---
+
+感谢你访问我的主页！
